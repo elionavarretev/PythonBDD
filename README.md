@@ -1,4 +1,4 @@
-[![N|Solid](https://i.ytimg.com/vi/jVJry1jx2dk/hqdefault.jpg)](https://behave.readthedocs.io/en/latest/#)
+[![N|Solid](https://i.udemycdn.com/course/480x270/739410_ad26_5.jpg)](https://behave.readthedocs.io/en/latest/#)
 
 # BDD in Python
 This project shows framework testing BDD in Python to run sample test case for Belcorp.
@@ -8,7 +8,7 @@ This project shows framework testing BDD in Python to run sample test case for B
 To run this tutorial, you will need [Behave](https://behave.readthedocs.io/en/latest/#), [Selenium](https://selenium-python.readthedocs.io/) and [Git](https://git-scm.com/downloads).
 
 Python IDE:
-* [Pycharme IDE](https://www.jetbrains.com/pycharm/)
+* [Pycharme IDE](https://www.jetbrains.com/pycharm/) (you can use the free Community Edition)
 * [IntelliJ IDE](https://www.jetbrains.com/idea/download/) (you can use the free Community Edition)
 
 > Make sure that the bundled Cucumber plugin is enabled.
@@ -16,7 +16,7 @@ Python IDE:
 Now clone this project to your local machine:
 
 ```sh
-$ git clone https://github.com/elionavarretev/BDD-Belcorp.git
+$ git clone https://github.com/elionavarretev/PythonBDD-Belcorp.git
 ```
 
 # Building the project
