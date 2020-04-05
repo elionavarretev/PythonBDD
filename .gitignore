@@ -146,5 +146,5 @@ out/
 *.ipr
 *.iws
 
-# PyCharm
+# Visual Code
 .vscode/
