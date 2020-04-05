@@ -137,3 +137,14 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# PyCharm
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+# PyCharm
+.vscode/
